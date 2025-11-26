@@ -1,4 +1,4 @@
-# Ödev 3 – MongoDB Cloud Bağlantılı Backend
+# MongoDB Cloud Bağlantılı Backend
 
 Bu proje, ders kapsamında verilen ödev doğrultusunda hazırlanmış olup,
 slaytta gösterilen Express + Mongoose backend yapısının **MongoDB Cloud (Atlas)**
