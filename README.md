@@ -5,6 +5,11 @@ slaytta gösterilen Express + Mongoose backend yapısının **MongoDB Cloud (Atl
 veritabanına bağlanacak şekilde güncellenmiş halidir. Ayrıca MongoDB Cloud üzerinde
 5 adet mekan verisi eklenmiş ve proje GitHub üzerinden teslim edilmiştir.
 
+
+https://github.com/user-attachments/assets/f2232717-c862-4899-a3ac-b21c44ccb418
+
+
+
 ---
 
 ## 📌 1. Projenin Amacı
